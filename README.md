@@ -3,8 +3,6 @@
 Exp 3 MAD Lab.
 
 
-![img1.png](img1.png)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
