@@ -2,9 +2,6 @@
 
 Exp 3 MAD Lab.
 
-![img.png](img.png)
-
-<br>
 
 ![img1.png](img1.png)
 
